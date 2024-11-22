@@ -1,0 +1,80 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables and settings files
+.env
+*.env
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Static files
+staticfiles/
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.rej
+*.sublime-package
+*.tar.gz
+*.zip
+*.out
+*.pid
+
+# Docker and container files
+*.dockerignore
+docker-compose.override.yml
+.docker/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Cloud/Service specific files
+*.aws-sam/

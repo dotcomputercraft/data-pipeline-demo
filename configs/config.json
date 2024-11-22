@@ -1,0 +1,6 @@
+{
+    "input_file": "data/input_data.json",
+    "output_file": "data/output_data.json",
+    "transformation_multiplier": 2
+  }
+  
